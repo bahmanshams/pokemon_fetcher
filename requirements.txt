@@ -1,0 +1,2 @@
+guizero==0.5.0
+pokebase==1.2.0
